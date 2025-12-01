@@ -36,24 +36,24 @@
 
 - ### Sub-script 1
 
-  - set the output_file_name
-  - take input from the user
-  - input() removes the terminating newline from the input, so we add a terminatig newline to the input so that "lines" get written to the output file.
-  - open the output file for writing in a "with" block and write the user input to the output file
+  - Set the output_file_name.
+  - Take input from the user.
+  - Input() removes the terminating newline from the input, so we add a terminating newline to the input so that "lines" get written to the output file.
+  - Open the output file for writing in a `with` block and write the user input to the output file.
 
-  - print the notification "Data successfully written to output.txt"
-  - print a blank line to separate the interaction for the sub-script 2
+  - Print the notification `"Data successfully written to output.txt"`.
+  - Print a blank line to separate the interaction for the sub-script 2.
 
 - ### Sub-script 2
 
-  - input additional text to be appended from the user
-  - add a terminating newline to the input as we want to write lines to the output file output.txt
-  - open the output file in append mode to append the additional text in a `with` block and write additional text to "output.txt"
-  - print the notification "Data successfully appended."
-  - print a blank line to separate interaction for sub-script-3
+  - Input additional text to be appended from the user.
+  - Add a terminating newline to the input as we want to write lines to the output file `output.txt`.
+  - Open the output file in append mode to append the additional text in a `with` block and write additional text to `"output.txt"`.
+  - Print the notification `"Data successfully appended."`
+  - Print a blank line to separate the interaction for sub-script-3.
 
 - ### Sub-script 3
 
-  - set the input-file name to the output-file name
-  - open the input file for reading in a `with` block and read all the text
-  - print the contents of the input-file in the specified format.
+  - Set the input-file name to the output-file name.
+  - Open the input file for reading in a `with` block and `read` all the text.
+  - Print the contents of the input-file in the specified format.
