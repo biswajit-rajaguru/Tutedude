@@ -1,0 +1,10 @@
+{
+    "display_bg": "#f9f1f0",
+    "keypad_bg": "#fad0c4",
+    "display_main_label_bg": "#ff9a9e",
+    "display_main_label_fg": "#ffffff",
+    "key_bg": "#a1c4fd",
+    "key_fg": "#4b4b4b",
+    "reset_key_bg": "#a1c4fd",
+    "key_fg": "#4b4b4b"
+}

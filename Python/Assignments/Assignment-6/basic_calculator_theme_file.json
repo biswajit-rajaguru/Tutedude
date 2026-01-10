@@ -1,0 +1,8 @@
+{
+    "display_bg": "#2e2e2e",
+    "keypad_bg": "#3d3d3d",
+    "display_main_label_bg": "#a7c080",
+    "display_main_label_fg": "#1a1a1a",
+    "key_bg": "#505050",
+    "key_fg": "#ffffff"
+}
